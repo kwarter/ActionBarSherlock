@@ -28,6 +28,9 @@ local.properties
 proguard.cfg
 proguard-project.txt
 
+#Gradle
+build
+
 #Other
 .DS_Store
 tmp
